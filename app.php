@@ -2,7 +2,7 @@
 
 class App
 {
-    public static $endpoint = "http://localhost/Webshop/array.php";
+    public static $endpoint = "http://localhost/Uppgift3/array.php";
 
 
     public static function main()

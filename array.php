@@ -17,11 +17,11 @@ $kitchenDescription = ["En enkel blender som kommer att göra din vardag sundare
  "Laga mat till hela familjen.", 
  "Bäst prestanda i marknaden enligt Ahmed och Omar.",];
  $kitchenPrice =["200","350","150","700","250","180","70","320","380","190"];
- $kitchenImage = ["http://localhost\Webshop\image\Blender.jpg","http://localhost\Webshop\image\Brödrost.jpg",
- "http://localhost\Webshop\image\CitrusJuicer.jpg","http://localhost\Webshop\image\Gjutjärnsgryta.jpg",
- "http://localhost\Webshop\image\Köksvåg.jpg","http://localhost\Webshop\image\LitenKastrull.jpg",
- "http://localhost\Webshop\image\Lökblender.jpg","http://localhost\Webshop\image\Smörgåsgrill.jpg",
- "http://localhost\Webshop\image\StorKastrull.jpg","http://localhost\Webshop\image\Vattenkokare.jpg"];
+ $kitchenImage = ["http://localhost\Uppgift3\image\Blender.jpg","http://localhost\Uppgift3\image\Brödrost.jpg",
+ "http://localhost\Uppgift3\image\CitrusJuicer.jpg","http://localhost\Uppgift3\image\Gjutjärnsgryta.jpg",
+ "http://localhost\Uppgift3\image\Köksvåg.jpg","http://localhost\Uppgift3\image\LitenKastrull.jpg",
+ "http://localhost\Uppgift3\image\Lökblender.jpg","http://localhost\Uppgift3\image\Smörgåsgrill.jpg",
+ "http://localhost\Uppgift3\image\StorKastrull.jpg","http://localhost\Uppgift3\image\Vattenkokare.jpg"];
  
 
 $products = array();   
