@@ -3,7 +3,7 @@
 // 1. Skapa en HTTP-header med innehållstypen JSON (Content-Type).
 header("Content-Type: application/json; charset=UTF-8");
 
-// 2. Skapa två PHP-arrayer för att lagra förnamn och efternamn.
+
 $kitchenProducts = ["Blender", "Brödrost", "Citrus juicer", "Gjutjärnsgryta",  "Köksvåg", "Liten kastrull",
  "Lökblender", "Smörgåsgrill", "Stor kastrull", "Vattenkokare"];
 $kitchenDescription = ["En enkel blender som kommer att göra din vardag sundare.", 
